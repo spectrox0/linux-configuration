@@ -3,7 +3,9 @@
     "javascript",
     "javascriptreact",
     "css",
+    "php",
     "scss",
+    "vue",
     "json",
     "typescript",
     "python",
@@ -13,6 +15,14 @@
     "yaml",
     "markdown"
   ],
+  "eslint.filetypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact",
+    "typescript.tsx"
+  ],
+  "coc.preferences.diagnostic.virtualText": true,
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": true
 }
